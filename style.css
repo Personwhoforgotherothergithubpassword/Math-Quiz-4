@@ -1,0 +1,58 @@
+body {
+  background-image: url(./images/math.jpeg);
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: bottom;
+  height: 100vh;
+}
+#container {
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+
+.container {
+  margin-top: 1rem;
+}
+
+.subtext {
+  font-size: medium;
+}
+
+#container {
+  background-color: beige;
+}
+
+.input {
+  width: 1000px;
+}
+
+#log-in {
+  width: 500px;
+  height: 30px;
+  color: white;
+  background-color: #318ce7;
+}
+
+#output {
+  background: lightblue;
+  border-radius: 10px;
+  border-top: 10px;
+  border-top: blue;
+  padding: 10px;
+  float: none;
+  text-align: left;
+}
+
+#number {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+#number2 {
+  margin-bottom: 20px;
+}
+
+#send {
+  background-color: lightgreen;
+  border-color: beige;
+}
